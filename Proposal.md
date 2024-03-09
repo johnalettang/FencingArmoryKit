@@ -8,36 +8,36 @@ The "fencing armory kit" serves as an all-encompasing guide for fixing, maintain
 
 ### Related Work / Prior Art
 ![ExpensiveBox](https://github.com/johnalettang/FencingArmoryKit/blob/main/Attachments/Expensive%20Fencing%20Box.png)
-
 [Professional testing box](https://www.absolutefencinggear.com/favero-professional-tester.html)
-Fantastic design for a testing box with really clear diagrams demonstrating electronically what it is testing. However, it is EXTREMELY expensive.
-
+Fantastic design for a testing box with really clear diagrams demonstrating electronically what it is testing. However, it is EXTREMELY expensive.  
+</br>
 
 ![CheaperBox](https://github.com/johnalettang/FencingArmoryKit/blob/main/Attachments/Cheaper%20Fencing%20Box.png)
-
 [Smart Test Box](https://fencingstb.com/)
-Very expensive for what it is...much cheaper than the last one. However, it is not open source and it is not intuitive.
+Very expensive for what it is...much cheaper than the last one. However, it is not open source and it is not intuitive.  
+</br>
 
 
 ![ICanHazArmoryYouTube](https://github.com/johnalettang/FencingArmoryKit/blob/main/Attachments/ICanHazArmory.png)
 [I can haz Armory](https://www.youtube.com/channel/UCK9jC6LJLAbxtFnIBvkuyqw/videos)
-YouTube channel with short dedicated videos for fencing equipment. Lots of great information in here but not the most organized. However it shows the accumulation of knowledge and some awesome tips and tricks to fix fencing equipment. I especially like the use of 3D printed tools and making use of open source tools.
+YouTube channel with short dedicated videos for fencing equipment. Lots of great information in here but not the most organized. However it shows the accumulation of knowledge and some awesome tips and tricks to fix fencing equipment. I especially like the use of 3D printed tools and making use of open source tools.  
+</br>
 
 
 ![Care and Feeding for all Things Fencing](https://github.com/johnalettang/FencingArmoryKit/blob/main/Attachments/Fencing%20Armory%20Book.png)
 [Care and Feeding for all Things Fencing](https://store.payloadz.com/go/?id=2675901)
-Comprehensive book for fixing fencing equipment. Informative, witty, concise. It does a good job of being approachable while also having information for an experience armorer.
-
+Comprehensive book for fixing fencing equipment. Informative, witty, concise. It does a good job of being approachable while also having information for an experience armorer.  
+</br>
 
 ![Open Source Wireless Fencing Box](https://github.com/johnalettang/FencingArmoryKit/blob/main/Attachments/OSWirelessFencingBox.png)
 [Open source wireless fencing box](https://github.com/Yohannfra/Touche)
-Awesome concept for what an open source fencing product could be. Well organized. Relatively easy to understand. My ideal is that my board is designed to come pre-assembled, so there would be less hassle with assembly.
-
+Awesome concept for what an open source fencing product could be. Well organized. Relatively easy to understand. My ideal is that my board is designed to come pre-assembled, so there would be less hassle with assembly.  
+</br>
 
 ![FencingVideoTutorial](https://github.com/johnalettang/FencingArmoryKit/blob/main/Attachments/FencingBoxTutorial.png)
 [Fencing Box Video Tutorial](https://www.youtube.com/watch?v=8p2DS3O2PkE)
-From Ball State Fencing Club, shows just how easy the circuitry behind a fencing testing box is, good demonstration of how to make one of these yourself. I am going to try to make it so that it is even easier to understand what the lights mean and such for testing a blade, as opposed to this somewhat minimal design.
-
+From Ball State Fencing Club, shows just how easy the circuitry behind a fencing testing box is, good demonstration of how to make one of these yourself. I am going to try to make it so that it is even easier to understand what the lights mean and such for testing a blade, as opposed to this somewhat minimal design.  
+</br>
 
 I am hoping to build on these previous works while changing my scope. The first two tools are extremely expensive electronics, that I can use my unique experience to create myself in an open source option. Instead of a linear format of information. I am hoping to make individual tools that have a short guide on their use. This allows for the user to learn from the tool, instead of from a written explanation that abstracts the problem into something the user no longer understands. 
 
